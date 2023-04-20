@@ -49,3 +49,15 @@ donde:
 
 # Cifrado RC4 basado en el proyecto:
 * [https://github.com/g2jun/RC4-Python](https://github.com/g2jun/RC4-Python)
+
+# Documentación:
+* [Tutorial Pruebas de Estrés](https://misovirtual.virtual.uniandes.edu.co/codelabs/tutorial-pruebas-estres)
+* [Manual de usuario JMeter](https://jmeter.apache.org/usermanual/get-started.html)
+* [Apache Benchmarking](https://httpd.apache.org/docs/2.4/programs/ab.html)
+
+# Comandos git usados:
+* git status
+* git add .
+* git remote rm origin
+* git remote add origin https://github.com/xandercj/taller-api-flask-2.git
+* git push origin main
