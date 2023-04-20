@@ -58,6 +58,7 @@ donde:
 # Comandos git usados:
 * git status
 * git add .
+* git commit -m 'actualizado con JMeter'
 * git remote rm origin
 * git remote add origin https://github.com/xandercj/taller-api-flask-2.git
 * git push origin main
